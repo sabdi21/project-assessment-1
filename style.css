@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+
+
+}
+#container {
+    padding: 50px 50px 50px 50px;
+}
+button {
+    background: gray;
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+    border-radius: 10px; 
+    padding: 15px;
+}
+
+input[type=text] {
+    border: 3px solid gray;
+    font-size: 40px;
+    padding: 20px;
+   
+}
+
+#output {
+    padding: 40px 10px;
+    text-align: center;
+    color: black;
+    border: 2px solid yellow;
+}
+
+p {
+    font-size: 90px;
+}
